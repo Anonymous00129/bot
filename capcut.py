@@ -41,7 +41,7 @@ def header_panel():
     title.append("CHECKER", style="bold #06b6d4")
     console.print(Align.center(title))
     console.print(Align.center(Text("passport-api-va.capcutapi.com · ios", style=CD)))
-    console.print(Align.center(Text("~ by @Aegris ~", style="italic #00f2ea")))
+    console.print(Align.center(Text("~ by @Tbbrobin ~", style="italic #00f2ea")))
     console.print()
 
 # ============ CONSTANTS ============
